@@ -1,3 +1,6 @@
+![Expanding Cards Demo](https://github.com/JohnSilva98/Expanding-Cards/images/demo.gif)
+
+
 <img width="1832" height="735" alt="image" src="https://github.com/user-attachments/assets/d8d00c0d-bba9-44e9-a849-46af77a30e63" />
 
 # Expanding Cards Project
